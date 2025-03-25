@@ -1,7 +1,71 @@
 <!-- 循环字体 -->
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=小孙同学祝您今天愉快!&center=true&size=27&color=B43C7A"> </a> </h1>
 
-## Hi there 👋
+## About me  ![Profile Picture](https://avatars.githubusercontent.com/u/132643945?v=4&size=64)
+
+I'm aihhhhhh, a Junior student studying in Beijing Institude of Technology with a passion for Artificial Intelligence. I enjoy working on Deep-learning and contributing to the open-source community.
+
+At present, I have a general understanding of the basic knowledge of machine learning. The next step is to participate in the competition practice in [Kaggle](https://www.kaggle.com/aihhhhhh) and try to reproduce the experiments in related papers. In the future, I will push the practical project here to prepare for the next step of doing my own project.
+
+## Skills
+
+### Programming Languages
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aihhhhhh521&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=monokai" /> </div>
+
+### Technologies
+- Node.js
+- React
+- Docker
+- Kubernetes
+
+### Other Skills
+- Data Analysis
+- Machine Learning
+- Graphic Design
+
+## Projects
+
+### Featured Projects
+- [Project 1](https://github.com/your-username/project1) - A brief description of Project 1.
+- [Project 2](https://github.com/your-username/project2) - A brief description of Project 2.
+- [Project 3](https://github.com/your-username/project3) - A brief description of Project 3.
+
+## Achievements
+
+- [Certificate 1](https://example.com/cert1) - Certificate Name
+- [Certificate 2](https://example.com/cert2) - Certificate Name
+- [Award 1](https://example.com/award1) - Award Name
+
+## Education
+
+### [University Name]
+**[Degree]** - [Major] - [Graduation Year]
+- Relevant Coursework: [Course 1], [Course 2], [Course 3]
+
+## Personal Blog
+
+[Visit My Blog](https://your-blog.com) - I write about [Your Topics].
+
+## Contact
+
+- Email: your-email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-username)
+- Twitter: [Your Twitter Profile](https://twitter.com/your-username)
+
+## Other Information
+
+### Interests
+- Reading
+- Hiking
+- Photography
+
+### Other Projects
+- [Project 4](https://github.com/your-username/project4)
+- [Project 5](https://github.com/your-username/project5)
+
+### Open Source Contributions
+- [Project 6](https://github.com/your-username/project6)
+- [Project 7](https://github.com/your-username/project7)
 
 <!-- 基本信息 -->
 <div align="center"> <img src="![Metrics](https://metrics.lecoq.io/aihhhhhh521?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)"> </div>
