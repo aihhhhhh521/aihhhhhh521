@@ -6,11 +6,8 @@
 <!-- 基本信息 -->
 <div align="center"> <img src="![Metrics](https://metrics.lecoq.io/aihhhhhh521?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)"> </div>
 
-<!-- 贡献 -->
-<div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=aihhhhhh521&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=bear" /> </div>
-
-<!-- 打字动图 -->
-<div align="right"> <img height="137px" src="hacker_a.gif"/> </div>
+<!-- 水平排列两个图片 -->
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=aihhhhhh521&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=bear" width="650" />  <img height="200px" src="hacker_a.gif" width="300"/>
 
 <!-- 奖杯 -->
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aihhhhhh521&theme=darkhub" /> </div>
