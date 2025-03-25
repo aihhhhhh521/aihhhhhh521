@@ -9,6 +9,9 @@
 <!-- 贡献 -->
 <div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=aihhhhhh521&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=bear" /> </div>
 
+<!-- 打字动图 -->
+<div align="right"> <img height="137px" src="hacker_a.gif"/> </div>
+
 <!-- 奖杯 -->
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aihhhhhh521&theme=darkhub" /> </div>
 
