@@ -1,5 +1,5 @@
 <!-- 循环字体 -->
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=小孙同学祝您今天愉快!&center=true&size=27&color=B43C7A"> </a> </h1>
 
 ## Hi there 👋
 
@@ -7,7 +7,7 @@
 <div align="center"> <img src="![Metrics](https://metrics.lecoq.io/aihhhhhh521?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)"> </div>
 
 <!-- 贡献 -->
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=aihhhhhh521&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=bear" /> </div>
+<div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=aihhhhhh521&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=bear" /> </div>
 
 <!-- 奖杯 -->
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aihhhhhh521&theme=darkhub" /> </div>
