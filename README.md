@@ -1,11 +1,21 @@
 <!-- 循环字体 -->
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=小孙同学祝您今天愉快!&center=true&size=27&color=B43C7A"> </a> </h1>
 
-## About me  ![Profile Picture](https://avatars.githubusercontent.com/u/132643945?v=4&size=64)
+## About me
+![Profile Picture](https://avatars.githubusercontent.com/u/132643945?v=4&size=64)
 
 I'm aihhhhhh, a Junior student studying in Beijing Institude of Technology with a passion for Artificial Intelligence. I enjoy working on Deep-learning and contributing to the open-source community.
 
 At present, I have a general understanding of the basic knowledge of machine learning. The next step is to participate in the competition practice in [Kaggle](https://www.kaggle.com/aihhhhhh) and try to reproduce the experiments in related papers. In the future, I will push the practical project here to prepare for the next step of doing my own project.
+
+<div align="center">
+    <a> Contact: </a>
+    <a href="https://twitter.com/your-twitter-handle"><span class="octicon octicon-mark-github"></span> Twitter</a> |
+    <a href="https://www.linkedin.com/in/your-linkedin-profile"><span class="octicon octicon-mark-linkedin"></span> LinkedIn</a> |
+    <a href="https://github.com/your-github-handle"><span class="octicon octicon-mark-github"></span> GitHub</a> |
+    <a href="https://github.com/your-github-handle"><span class="octicon octicon-mark-github"></span> Kaggle</a> |
+    <a href="https://github.com/your-github-handle"><span class="octicon octicon-mark-github"></span> Youtube</a>
+</div>
 
 ## Skills
 
